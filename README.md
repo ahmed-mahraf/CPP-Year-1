@@ -9,8 +9,7 @@ Lab work for first year university.
 • Allows you to exit the program.  
 
 ## Lab 2 - Tic Tac Toe
-• Add two numbers.  
-• Subtract one number from another.  
-• Multiply two numbers.  
-• Divide one number by another.  
-• Allows you to exit the program.  
+• Create and initialise the board.
+• Create a user interface so each player can chose where to place their nought or cross.
+• Create a game loop which controls the game so each player can go in turn.
+• Implement the rules to check if either player has won or there is a stalemate.
